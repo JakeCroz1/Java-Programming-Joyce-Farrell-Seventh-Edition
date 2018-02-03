@@ -1,0 +1,13 @@
+//Filename AddNamedConstant.java
+public class AddNamedConstant
+
+{
+   public static void main(String[] args)
+   {
+      int aWholeNumber = 315;
+      final int STATES_IN_US = 50;
+             
+      System.out.println("The number is" + " " + aWholeNumber);
+      System.out.println("The number of states is" + " " + STATES_IN_US);
+    }   
+}
